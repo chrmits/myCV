@@ -1,8 +1,20 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Nama project
+  link: www.namaproject.gr
+  # github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Thesis | Study and Prototype Development of a Web Documentary: Thematic Research – Analysis, Information Architecture and Narrative Multimodality in Web Documentary
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    The interactive documentary is the point of intersection of reality approaches made by the new media and by the documentary. The web documentary as a type of interactive documentary, which is distributed or composed on web platforms, is characterized by the conceptual, artistic and usability design of Information Architecture. This thesis focuses on the web documentary's development, from the searching of its theme to its presentation.
+    **about namaproject**
+    Human presence is intertwined with the existence of water. The Nama Project aims to highlight the relationship between water and human activity, in the area of ​​Naoussa Imathia. These relationships create stories, full of wisdom.
+- layout: top-middle
+  name: Fake Flowers
+  # link: www.namaproject.gr
+  # github: sproogen/resume-theme
+  quote: >
+    Short film
+  description: | # this will include new lines to allow paragraphs
+    Fake flowers... The seeming prosperous days have gone. A baby bottle of milk breaks and this is how cruel reality strike us. A mother tries to calm down her child and at the same time her soul with a lullaby-lament for everything that is going on.
+    **credits**
+    Creators: Christos Mitsianis & Konstantinos Tataroglou, Actress: Georgia Mpakatsia, Composer/ Performer: Aggeliki Ploka
