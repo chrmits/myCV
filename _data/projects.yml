@@ -3,10 +3,10 @@
   link: www.namaproject.gr
   # github: sproogen/resume-theme
   quote: >
-    Thesis | Study and Prototype Development of a Web Documentary: Thematic Research – Analysis, Information Architecture and Narrative Multimodality in Web Documentary
+    Study and prototype development of a web documentary: Thematic research – analysis, Information Architecture and narrative multimodality in web documentary | Thesis
   description: | # this will include new lines to allow paragraphs
     The interactive documentary is the point of intersection of reality approaches made by the new media and by the documentary. The web documentary as a type of interactive documentary, which is distributed or composed on web platforms, is characterized by the conceptual, artistic and usability design of Information Architecture. This thesis focuses on the web documentary's development, from the searching of its theme to its presentation.
-    **about namaproject**
+    | **About nama project** |
     Human presence is intertwined with the existence of water. The Nama Project aims to highlight the relationship between water and human activity, in the area of ​​Naoussa Imathia. These relationships create stories, full of wisdom.
 - layout: top-middle
   name: Fake Flowers
@@ -16,5 +16,5 @@
     Short film
   description: | # this will include new lines to allow paragraphs
     Fake flowers... The seeming prosperous days have gone. A baby bottle of milk breaks and this is how cruel reality strike us. A mother tries to calm down her child and at the same time her soul with a lullaby-lament for everything that is going on.
-    **credits**
+    | **credits** |
     Creators: Christos Mitsianis & Konstantinos Tataroglou, Actress: Georgia Mpakatsia, Composer/ Performer: Aggeliki Ploka
