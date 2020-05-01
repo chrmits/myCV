@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: chrmits/myCV
 favicon: images/favicon.ico
 
 # Personal info
@@ -9,7 +9,7 @@ email: chr.mits@gmail.com
 website: www.namaproject.gr
 
 # Social links
-twitter_username: chmits
+# twitter_username: chmits
 github_username:  chrmits
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -24,9 +24,13 @@ youtube_username: Chmits
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Christos Mitsianis, 
+  Hi, my name's Christos Mitsianis,
 
-  I am <mark>photography tutor</mark> and <mark>Audiovisual</mark> & <mark>New media</mark> creator with innvative ideas
+  I am photography <mark>tutor</mark> and audiovisual & new media arts <mark>creator</mark> with innvative ideas.
+   - web - interactive documentary
+   - video art
+   - photography
+   - computer science
 
 # Projects Section
 # projects_title: Projects
