@@ -1,4 +1,17 @@
 - layout: top-middle
+  name: Photography: a pilot study for the use of photography in therapeutic settings
+  #link: www.namaproject.gr
+  # github: sproogen/resume-theme
+  quote: >
+   30 - 21 March 2019 at International Scientific Conferences “Creative Arts Interconnection – Paideia – Therapy, Aristotle University of Thessaloniki, School of Music Studies <br /> 11-13 Oktober 2019 at 6th Panhellenic Conference on Cognitive and Behavioral Psychotherapy, organized by Hellenic Society of Cognitive Behavioral Psychotherapy & Department of Educational and Social Policy of the University of Macedonia, placed at Aristotle University Research Dissemination Center, Thessaloniki
+  description: | # this will include new lines to allow paragraphs
+    Photography is a sort of art, a kind of activity for people, but it’s also a means for therapy. Family photos, portraits and nature photos give techniques to facilitate therapy.
+A questionnaire based on two photos was conducted and distributed in groups of clinical and non-clinical subjects. The questionnaire was distributed in a digital form, very easy to use.
+Our workshop engages participants by filling in the questionnaire and by having a discussion about their answers. They need smartphone or tablet or laptop and internet connection (wifi or cellular).
+Research findings indicate that photos challenge thoughts, emotions, creativity, music memories, decisions, cognitive and emotional restructuring both in clinical and non-clinical individuals. Through examples of those variables, research showcases photography’s power as a stimulus.
+Finally, semiotic elements of the photos used in the questionnaire have been correlated to answers given by individuals and an interpretation of the values of variables is proposed.
+    <br /> **Authors:** Evdoxia Adamidou, Christos Mitsianis
+- layout: top-middle
   name: Nama project
   link: www.namaproject.gr
   # github: sproogen/resume-theme
@@ -34,7 +47,7 @@
   quote: >
       Screening in Sochi International Winter Festival of Arts, 15-22 February 2016 | Awarded in the 7th (2010) Naoussa International Film Festival, 2009-10
   description: | # this will include new lines to allow paragraphs
-      The video art project pre- sents a water clock which iconsists of two water bottles. The water in the up- per bottle turns into sand which becomes more and more, as time goes by. When will people, as viewers, realize that clean water may not be available in the future? Will we continue spending and polluting it? We must wake up!
+      The video art project presents a water clock which it is depicted by two water bottles. The water in the upper bottle turns into sand which becomes more and more, as time goes by. When will people, as viewers, realize that clean water may not be available in the future? Will we continue spending and polluting it? We must wake up!
 - layout: top-middle
   name: Black Box 1
   # link: www.namaproject.gr
@@ -53,4 +66,4 @@
   description: | # this will include new lines to allow paragraphs
     Music Video
     <br /> **Credits** <br />
-    Artist: Stergios Parizas, Lyrics - Music: Matthaios Sofras          
+    Artist: Stergios Parizas, Lyrics - Music: Matthaios Sofras
