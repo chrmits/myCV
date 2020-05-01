@@ -6,7 +6,7 @@
     Study and prototype development of a web documentary: Thematic research – analysis, Information Architecture and narrative multimodality in web documentary | Thesis
   description: | # this will include new lines to allow paragraphs
     The interactive documentary is the point of intersection of reality approaches made by the new media and by the documentary. The web documentary as a type of interactive documentary, which is distributed or composed on web platforms, is characterized by the conceptual, artistic and usability design of Information Architecture. This thesis focuses on the web documentary's development, from the searching of its theme to its presentation.
-    <br /> **About nama project:** Human presence is intertwined with the existence of water. The Nama Project aims to highlight the relationship between water and human activity, in the area of ​​Naoussa Imathia. These relationships create stories, full of wisdom.
+    <br /> **About:** Human presence is intertwined with the existence of water. The Nama Project aims to highlight the relationship between water and human activity, in the area of ​​Naoussa Imathia. These relationships create stories, full of wisdom.
 - layout: top-middle
   name: Fake Flowers
   # link: www.namaproject.gr
@@ -15,7 +15,8 @@
     Short film
   description: | # this will include new lines to allow paragraphs
     Fake flowers... The seeming prosperous days have gone. A baby bottle of milk breaks and this is how cruel reality strike us. A mother tries to calm down her child and at the same time her soul with a lullaby-lament for everything that is going on.
-    <br /> **Credits** Creators: Christos Mitsianis & Konstantinos Tataroglou, Actress: Georgia Mpakatsia, Composer/ Performer: Aggeliki Ploka
+    <br /> **Credits** <br />
+    Creators: Christos Mitsianis & Konstantinos Tataroglou, Actress: Georgia Mpakatsia, Composer/ Performer: Aggeliki Ploka
 - layout: top-middle
   name: Press_to Presto
   # link: www.namaproject.gr
@@ -24,7 +25,8 @@
     Awarded in the 10th (2013) Naoussa International Film Festival
   description: | # this will include new lines to allow paragraphs
     Experimental short film with video art features. Press_to Presto: Speed, pressure, information, compression - de-compression.
-    <br /> **Credits** Music: Gyorgy Ligeti
+    <br /> **Credits** <br />
+    Music: Gyorgy Ligeti
 - layout: top-middle
   name: Kleps_ydra
   link: https://youtu.be/WVygA89nMig
@@ -34,7 +36,7 @@
   description: | # this will include new lines to allow paragraphs
       The video art project pre- sents a water clock which iconsists of two water bottles. The water in the up- per bottle turns into sand which becomes more and more, as time goes by. When will people, as viewers, realize that clean water may not be available in the future? Will we continue spending and polluting it? We must wake up!
 - layout: top-middle
-  name: Black Box \*hash mark\*1
+  name: Black Box 1
   # link: www.namaproject.gr
   # github: sproogen/resume-theme
   quote: >
@@ -50,4 +52,5 @@
     # Video installation
   description: | # this will include new lines to allow paragraphs
     Music Video
-    <br /> **Credits** Artist: Stergios Parizas, Lyrics - Music: Matthaios Sofras          
+    <br /> **Credits** <br />
+    Artist: Stergios Parizas, Lyrics - Music: Matthaios Sofras          
