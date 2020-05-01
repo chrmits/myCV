@@ -1,6 +1,6 @@
 - layout: left
-  company: Photography and Media Lab of Naoussa & Veria Municipalities
-  # link: boringcompany.com
+  company: Photography - Media Lab of Naoussa and Veria Municipalities
+  # link: Link to company (optional)
   job_title: Director and tutor
   dates: November 2018 - Present
   quote: >
@@ -13,15 +13,15 @@
   job_title: Creative media designer
   dates: May 2015 - February 2016
   quote: >
-   Managing audiovisual projects for puplic sector organizations and corporate clients
+   Managing audiovisual projects for public sector organizations and corporate clients.
   description: | # this will include new lines to allow paragraphs
-   I have worked in audiovisual production company as creator and then as a manager of audiovisual and promotional projects. I proposed, created and managed projects for manufacturing and tourism companies, Thessaloniki International Fair, non-profit organizations, municipalities, national organizations, Hellenic Public Broadcast ERT S.A and cable TV provider OteTV.
- layout: left
+    I have worked in audiovisual production company as creator and then as a manager of audiovisual and promotional projects. I proposed, created and managed projects for manufacturing and tourism companies, Thessaloniki International Fair, non-profit organizations, municipalities, national organizations, Hellenic Public Broadcast ERT S.A and cable TV provider OteTV.
+- layout: left
   company: Dangerous Productions
   link: www.dangerousprods.com
   job_title: Intern
   dates: June 2013 - September 2013
-  #quote: >
-   #Managing audiovisual projects for puplic sector organizations and corporate clients
+  # quote: >
+   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-  Documentary market analysis | Documentary interview transcription | Film production assistance
+    Documentary market analysis | Documentary interview transcription | Film production assistance
